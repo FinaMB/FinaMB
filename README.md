@@ -1,7 +1,7 @@
 
 # <img src="https://i.pinimg.com/236x/81/4b/8d/814b8dc7ab7994a417f34c2cd42acc62.jpg" width=60> Hi, I'm Fina
 ### 3D ARTIST
-![fmonistrol.artstation.com](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/Untitled-1.png)
+![fmonistrol.artstation.com](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/Ropita_021.jpg)
 
 
 Párrafo de presentación.
