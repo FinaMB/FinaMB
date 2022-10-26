@@ -3,7 +3,7 @@
 ### 3D ARTIST
 ![fmonistrol.artstation.com](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/Ropita_021.jpg)
 
-I am 23 year old artist from Spain.
+I am 23 year old artist from Spain. 
 
 I'm a videogame passionate with great motivation and meticulous working habits. 
 
