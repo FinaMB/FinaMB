@@ -42,8 +42,8 @@ OTHERS
 
 | **3D MODELING** | ![fmonistrol.artstation.com](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/fina-monistrol-bustogoblin-c.jpg) | ![fmonistrol.artstation.com](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/fina-monistrol-cloth-c.jpg) |
 | ------------- | ------------- | ------------- |
-| **3D SCULPTURE**  | ![fmonistrol.artstation.com](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/fina-monistrol-desierto-c.jpg)  | ![fmonistrol.artstation.com](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/fina-monistrol-bar-c.jpg)  |
-| **CONCEPT ART 2D**  | ![fmonistrol.artstation.com](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/josefina-monistrol-melarcanefina.jpg)  | ![fmonistrol.artstation.com](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/josefina-monistrol-espadaproop.jpg)  |
+| **3D SCULPTURE**  | ![fmonistrol.artstation.com](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/fina-monistrol-desierto-c.jpg) | ![fmonistrol.artstation.com](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/fina-monistrol-bar-c.jpg) |
+| **CONCEPT ART 2D**  | ![fmonistrol.artstation.com](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/josefina-monistrol-espadaproop.jpg) |  ![fmonistrol.artstation.com](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/josefina-monistrol-melarcanefina.jpg) |
 
 
 
