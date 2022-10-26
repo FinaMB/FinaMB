@@ -45,9 +45,8 @@ OTHERS
 
 
 
+<h1 align='center'><i>Thanks for visiting me</i></h1>
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
 
 
              
