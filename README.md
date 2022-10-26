@@ -4,7 +4,7 @@
 ![fmonistrol.artstation.com](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/Ropita_021.jpg)
 
 
-Párrafo de presentación.
+Párrafo de presentación aquí.
 
 
 
@@ -20,7 +20,7 @@ Párrafo de presentación.
 [![3DsMax](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/icons8-3dsMax-100.png)]()
 [![SubstancePainter](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/icons8-substancepainter-100.png)]()
 
-Other
+OTHERS
 
 [![Unity](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/icons8-adobe-unity-100.png)]()
 [![UnrealEngine](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/icons8-Unreal-100.png)]()
