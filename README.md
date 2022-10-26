@@ -11,7 +11,7 @@ Párrafo de presentación.
 
 
 
-## PROGRAMS:
+## SOFTWARES:
 3D/2D SOFTWARES
 
 [![MAYA](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/icons8-autodesk-maya-100.png)]()
@@ -24,7 +24,6 @@ Other
 
 [![Unity](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/icons8-adobe-unity-100.png)]()
 [![UnrealEngine](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/icons8-Unreal-100.png)]()
-
 [![Premier](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/icons8-adobe-premiere-pro-100.png)]()
 [![AfterEffects](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/icons8-adobe-after-effects-100.png)]()
 [![Audition](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/icons8-adobe-audition-100.png)]()
