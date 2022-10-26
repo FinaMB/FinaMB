@@ -12,14 +12,15 @@ Párrafo de presentación.
 
 
 ## PROGRAMS:
-3D SOFTWARES
+3D/2D SOFTWARES
 
 [![MAYA](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/icons8-autodesk-maya-100.png)]()
 [![ZBRUSH](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/icons8-zbrush-100.png)]()
+[![Photoshop](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/icons8-adobe-photoshop-100.png)]()
 [![3DsMax](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/icons8-3dsMax-100.png)]()
 [![SubstancePainter](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/icons8-substancepainter-100.png)]()
 
-Other 
+Other
 
 [![Unity](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/icons8-adobe-unity-100.png)]()
 [![UnrealEngine](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/icons8-Unreal-100.png)]()
@@ -37,4 +38,11 @@ Other
 
 
 ## OBRAS
+
+| **3D MODELING** | imagen | imagen |
+| ------------- | ------------- | ------------- |
+| **3D SCULPTURE**  | imagen  | imagen  |
+| **CONCEPT ART 2D**  | imagen  | imagen  |
+
+
              
