@@ -27,7 +27,7 @@ OTHERS
 [![InDesign](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/icons8-adobe-indesign-100.png)]()
 
 
-## OBRAS
+## ARTWORK
 
 | **3D MODELING** | ![fmonistrol.artstation.com](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/fina-monistrol-bustogoblin-c.jpg) | ![fmonistrol.artstation.com](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/fina-monistrol-cloth-c.jpg) |
 | ------------- | ------------- | ------------- |
