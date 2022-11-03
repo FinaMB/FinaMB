@@ -2,6 +2,7 @@
 # <img src="https://i.pinimg.com/236x/81/4b/8d/814b8dc7ab7994a417f34c2cd42acc62.jpg" width=60> Hi, I'm Fina
 ### 3D ARTIST
 ![fmonistrol.artstation.com](https://raw.githubusercontent.com/FinaMB/FinaMB/main/Resources/Ropita_021.jpg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=finamb&label=Profile%20views&color=0e75b6&style=flat" alt="finamb" /> </p>
 
 I am 23 year old artist from Spain. 
 
@@ -43,6 +44,10 @@ OTHERS
 </h1>
 
 <h1 align='center'><i>Thanks for visiting me</i></h1>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=finamb" alt="finamb" /></a> </p>
+</h1>
+
 
 
 
